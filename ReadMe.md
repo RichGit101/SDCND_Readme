@@ -75,7 +75,7 @@ Here is our Autonomous Driving Car Ms Carla
 
 * Car Testing Track
      Udacity  test site in Palo Alto, California.
-     ![Udacity_map](readme_images/Udacity_map.jpg)
+     ![Udacity_map](readme_images/Udacity_map.png)
 
 * Car Compute Hardware Specification
       The operating system Carla runs on is Ubuntu Linux.
