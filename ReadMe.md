@@ -62,8 +62,9 @@ Here is our Autonomous Driving Car Ms Carla
 
      For this project, We developed ROS nodes to implement core functionality of the autonomous vehicle system, including traffic light detection, control, and waypoint Management. We tested and verified our work on Udacity provided System Integration simulator build on Unity 3D platform. Multiple environments were used during development including VM, udacity workspace and native installs.
 
-          The following is a system architecture diagram showing the ROS nodes and topics used in the project.
+ The following is a system architecture diagram showing the ROS nodes and topics used in the project.
 
+          
           ![System_Architecture](readme_images/final-project-ros.png)
 
 
